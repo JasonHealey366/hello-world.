@@ -1,2 +1,2 @@
 # hello-world.
-Demo Repo
+This is a Demo Repo, designed to work through GitHub tutorials.
